@@ -260,66 +260,13 @@ cd WSA-Pro
 
 Запустите PowerShell от имени администратора.
 
-Выполните:
-
-```powershell
-.\WSA.ps1
-```
-
-Создать HTML-отчёт:
-
-```powershell
-.\WSA.ps1 -Html
-```
-
-Экспортировать JSON:
-
-```powershell
-.\WSA.ps1 -ExportJson
-```
-
-Тихий режим:
-
-```powershell
-.\WSA.ps1 -Quiet
 ```
 
 Запуск выбранных модулей:
 
 ```powershell
-.\WSA.ps1 -Category Defender,Firewall
+.\WSA.ps1
 ```
-
----
-
-# 📂 Структура проекта
-
-```text
-WSA-Pro
-│
-├── src
-│   ├── Core
-│   ├── Modules
-│   ├── Reports
-│   ├── Templates
-│   ├── Config
-│   └── AI
-│
-├── docs
-├── examples
-├── screenshots
-├── tests
-├── tools
-│
-├── LICENSE
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── SECURITY.md
-├── CODE_OF_CONDUCT.md
-├── README.md
-└── WSA.ps1
-```
-
 ---
 
 # 📸 Скриншоты
