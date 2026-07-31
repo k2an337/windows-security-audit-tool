@@ -210,7 +210,7 @@ Execution Policy в терминале PowerShell:
 
 Unblock-File .\WSA.ps1
 
-Запустите PowerShell от имени администратора.
+Запустите PowerShell от имени администратора:
 
 .\wsat.ps1
 
