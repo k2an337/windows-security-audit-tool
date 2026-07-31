@@ -204,7 +204,9 @@ WSA Tool поддерживает аудит по следующим требо�
 - уровень соответствия требованиям.
 
 ---
-Execution Policy в Терминале PowerShell:
+# Запуск скрипта
+
+Execution Policy в терминале PowerShell:
 
 Unblock-File .\WSA.ps1
 
