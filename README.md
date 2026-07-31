@@ -244,48 +244,9 @@ WSA Pro поддерживает аудит по следующим требов
 
 ---
 
-# 🚀 Быстрый запуск
-
-Клонируйте репозиторий:
-
-```powershell
-git clone https://github.com/YOUR_USERNAME/WSA-Pro.git
-```
-
-Перейдите в каталог проекта:
-
-```powershell
-cd WSA-Pro
-```
-
 Запустите PowerShell от имени администратора.
 
-```
-
-Запуск выбранных модулей:
-
-```powershell
 .\WSA.ps1
-```
----
-
-# 📸 Скриншоты
-
-После публикации рекомендуется добавить:
-
-```
-screenshots/
-
-dashboard.png
-
-report.png
-
-summary.png
-
-security-score.png
-```
-
----
 
 # 🛣 План развития
 
